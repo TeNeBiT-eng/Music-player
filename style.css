@@ -35,7 +35,7 @@ body {
   overflow: hidden;
   position: relative;
   border-radius: 15px;
-  background: var(--white);
+  background: radial-gradient(circle at 24.1% 68.8%, rgb(50, 50, 50) 0%, rgb(0, 0, 0) 99.4%);
   box-shadow: 0px 6px 15px var(--lightbshadow);
 }
 
@@ -55,7 +55,7 @@ body {
 
 .top-bar i {
   font-size: 30px;
-  color: var(--lightblack);
+  color: var(--white);
 }
 
 .top-bar i:first-child {
@@ -66,7 +66,7 @@ body {
 .top-bar span {
   font-size: 18px;
   margin-left: -3px;
-  color: var(--lightblack);
+  color: var(--white);
 }
 
 .img-area {
@@ -90,7 +90,7 @@ body {
 }
 
 .song-details p {
-  color: var(--lightblack);
+  color: var(--white);
 }
 
 .song-details .name {
@@ -146,7 +146,7 @@ body {
 
 .song-timer span {
   font-size: 13px;
-  color: var(--lightblack);
+  color: var(--white);
 }
 
 .controls {
