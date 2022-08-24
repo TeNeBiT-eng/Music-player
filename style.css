@@ -204,7 +204,7 @@ body {
   background: inherit;
   background-clip: text;
   -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+  -webkit-text-fill-color: white;
   position: absolute;
 }
 
